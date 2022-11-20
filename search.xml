@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>第一篇文章-Python</title>
+      <link href="/2022/11/20/1/"/>
+      <url>/2022/11/20/1/</url>
+      
+        <content type="html"><![CDATA[<h2 id="我的第一篇文章哦！"><a href="#我的第一篇文章哦！" class="headerlink" title="我的第一篇文章哦！"></a>我的第一篇文章哦！</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第二篇文章-Go</title>
+      <link href="/2022/11/20/2/"/>
+      <url>/2022/11/20/2/</url>
+      
+        <content type="html"><![CDATA[<h2 id="我的第二篇文章哦！"><a href="#我的第二篇文章哦！" class="headerlink" title="我的第二篇文章哦！"></a>我的第二篇文章哦！</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> Go </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第三篇文章-Java</title>
+      <link href="/2022/11/20/3/"/>
+      <url>/2022/11/20/3/</url>
+      
+        <content type="html"><![CDATA[<h2 id="我的第三篇文章哦！"><a href="#我的第三篇文章哦！" class="headerlink" title="我的第三篇文章哦！"></a>我的第三篇文章哦！</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
